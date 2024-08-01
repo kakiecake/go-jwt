@@ -8,3 +8,6 @@ go.work
 go.work.sum
 
 .env
+
+tmp/
+app
